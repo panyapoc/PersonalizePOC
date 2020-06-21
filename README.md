@@ -4,6 +4,10 @@ Amazon Personalize is a machine learning service that allows you to build and sc
 
 This repository assumes a base familiarity with the service and if you have not already done so it is recommended that you use the getting-started material below.
 
+## Start Here
+
+[Event Engine Dashboard](https://dashboard.eventengine.run/login)
+
 ## Introduction to Amazon Personalize
 
 If you are not familiar with Amazon Personalize you can learn more about this tool on these pages:
